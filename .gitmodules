@@ -1,0 +1,6 @@
+[submodule "lineBot"]
+	path = lineBot
+	url = https://github.com/jonah20001j/lineBot.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/jonah20001j/docker.git
